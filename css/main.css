@@ -19,7 +19,7 @@ html {
 .cards li {
   display: inline-block;
   margin: 0 .5em 1em;
-  max-width:20em;
+  max-width: 20em;
   padding: 1em;
   background-color: #fff;
   border: 3px solid #e2e2e2;
@@ -29,11 +29,11 @@ html {
 
 .cards img {
   display: block;
-  margin:0 auto 1rem;
+  margin: 0 auto 1rem;
 }
 
 .cards strong {
-  display:block;
+  display: block;
   margin-bottom: 1rem;
   font-size: 1.125rem;
 }
@@ -50,7 +50,7 @@ html {
 
 .cards dd {
   display: inline-block;
-  margin:0;
+  margin: 0;
   min-width: 9em;
 }
 
